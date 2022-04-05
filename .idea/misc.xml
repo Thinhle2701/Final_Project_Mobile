@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/drawable/border_radius_answer.xml" value="0.2315" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.211" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/drawable/key_black.xml" value="0.211" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/drawable/key_white.xml" value="0.211" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/drawable/person_black.xml" value="0.211" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/drawable/rounded_corner.xml" value="0.2315" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_english_choice_question.xml" value="0.1" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_home_screen.xml" value="0.25" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_navigation_page.xml" value="0.25" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_test_api.xml" value="0.25" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_test_api2.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_vocab_activities.xml" value="0.264" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/app_bar_navigation_page.xml" value="0.25" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/content_navigation_page.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/menu/activity_home_activities_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/thinh/AndroidStudioProjects/MyApp/app/src/main/res/menu/navigation__page.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
