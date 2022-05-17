@@ -8,8 +8,8 @@
 
     <TextView
         android:id="@+id/text_view_api"
-        android:layout_width="134dp"
-        android:layout_height="145dp"
+        android:layout_width="258dp"
+        android:layout_height="25dp"
         android:text="TextView"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -19,10 +19,10 @@
         app:layout_constraintVertical_bias="0.054" />
 
     <Button
-        android:id="@+id/button_call_api"
+        android:id="@+id/button_load_img"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Get Image"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.706"
@@ -44,14 +44,14 @@
 
     <ImageView
         android:id="@+id/image_load"
-        android:layout_width="226dp"
-        android:layout_height="268dp"
+        android:layout_width="361dp"
+        android:layout_height="416dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.367"
+        app:layout_constraintHorizontal_bias="0.32"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.421"
+        app:layout_constraintVertical_bias="0.2"
         tools:srcCompat="@tools:sample/avatars" />
 
     <EditText

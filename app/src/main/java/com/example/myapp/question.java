@@ -1,7 +1,7 @@
 package com.example.myapp;
 import  com.google.gson.annotations.SerializedName;
 
-public class question {
+public class Question {
     @SerializedName("question_name")
     public String question;
 
